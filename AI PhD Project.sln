@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI PhD Project", "AI PhD Project.csproj", "{473482E6-66D5-7393-BDA0-2D9B6D12306D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI PhD Project.Editor", "AI PhD Project.Editor.csproj", "{900589E9-A12D-892A-36A3-1D3C00B9AB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473482E6-66D5-7393-BDA0-2D9B6D12306D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473482E6-66D5-7393-BDA0-2D9B6D12306D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473482E6-66D5-7393-BDA0-2D9B6D12306D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473482E6-66D5-7393-BDA0-2D9B6D12306D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900589E9-A12D-892A-36A3-1D3C00B9AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900589E9-A12D-892A-36A3-1D3C00B9AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900589E9-A12D-892A-36A3-1D3C00B9AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900589E9-A12D-892A-36A3-1D3C00B9AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

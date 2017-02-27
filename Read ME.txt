@@ -1,0 +1,9 @@
+Proof of concept project. This project demonstrates how we can use multiple approaches to AI in games to help develop a game souly around AI
+
+No need to do anything agent will fly to the moon by itself Just hit play
+
+To see A* interacting with PCG go to game manager object Select display gizmos then press play. 
+
+once terrain is load hit "Spacebar" on your keyboard the grid Agent will then be able to detect land masses above the waters surface and will avoid them. 
+
+Seed can be adjusted in editor and can be displayed in editor if you set PCG terrain object to active
